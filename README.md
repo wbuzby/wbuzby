@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently working part time evenings on a degree in Geographic Information Technology from the University of Arizona
+🔭 I’m currently working as a Project Surveyor by day, and part time in the evenings on a degree in Geographic Information Technology from the University of Arizona. 
 - 🌱 I’m currently learning how to go with the GitHub flow. 
 - 👯 I’m looking to collaborate on a open source GIS project.
 - 📫 How to reach me email is the easiest.  
